@@ -15,11 +15,6 @@ My goal is to build impactful projects and publish high-quality AI research.
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mahadi-493&theme=tokyonight&hide_border=true)<br/>
 
-💠 Followers
-![GitHub followers](https://img.shields.io/github/followers/mahadi-493?style=social)
-![GitHub stars](https://img.shields.io/github/stars/mahadi-493?style=social)
-
-
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-493&theme=tokyonight)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-493&theme=tokyonight)
 
