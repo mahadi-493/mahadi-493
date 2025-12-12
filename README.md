@@ -13,7 +13,7 @@ My goal is to build impactful projects and publish high-quality AI research.
 📧 Email: mhasan223493@bscse.uiu.ac.bd
 🔗 GitHub: https://github.com/mahadi-493
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mahadi-493&theme=tokyonight&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=mahadi-493&theme=tokyonight&hide_border=true)<br/>
 
 💠 Followers
 ![GitHub followers](https://img.shields.io/github/followers/mahadi-493?style=social)
