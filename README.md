@@ -18,6 +18,8 @@ My goal is to build impactful projects and publish high-quality AI research.
 ![GitHub stars](https://img.shields.io/github/stars/mahadi-493?style=social)
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-493&theme=tokyonight)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-493&theme=tokyonight)
+
 
 📬 Contact Me
 📧 Email: mhasan223493@bscse.uiu.ac.bd
