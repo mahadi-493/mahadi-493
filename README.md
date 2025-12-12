@@ -9,7 +9,9 @@ My goal is to build impactful projects and publish high-quality AI research.
 🚀 About Me
 
 🎓 CSE Student at UIU
-
+📬 Contact Me
+📧 Email: mhasan223493@bscse.uiu.ac.bd
+🔗 GitHub: https://github.com/mahadi-493
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mahadi-493&theme=tokyonight&hide_border=true)
 
@@ -21,9 +23,5 @@ My goal is to build impactful projects and publish high-quality AI research.
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-493&theme=tokyonight)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-493&theme=tokyonight)
 
-
-📬 Contact Me
-📧 Email: mhasan223493@bscse.uiu.ac.bd
-🔗 GitHub: https://github.com/mahadi-493
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadi-493&theme=tokyonight)
