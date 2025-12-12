@@ -17,8 +17,6 @@ My goal is to build impactful projects and publish high-quality AI research.
 ![GitHub followers](https://img.shields.io/github/followers/mahadi-493?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mahadi-493?style=social)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadi-493&theme=tokyonight)
-
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-493&theme=tokyonight)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-493&theme=tokyonight)
@@ -27,3 +25,5 @@ My goal is to build impactful projects and publish high-quality AI research.
 📬 Contact Me
 📧 Email: mhasan223493@bscse.uiu.ac.bd
 🔗 GitHub: https://github.com/mahadi-493
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadi-493&theme=tokyonight)
