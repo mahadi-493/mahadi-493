@@ -1,17 +1,15 @@
 CSE Student • AI & Software Developer • Problem Solver
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-493&color=blue" alt="Profile Views" /> </p>
 
 I’m a passionate developer from 🇧🇩 Bangladesh, currently studying Computer Science & Engineering (CSE) at United International University.
 
 I love exploring AI, Machine Learning, Computer Vision, NLP, Software Development, and IoT/Robotics.
 My goal is to build impactful projects and publish high-quality AI research.
 
-🚀 About Me
-
-🎓 CSE Student at UIU
-📬 Contact Me
-📧 Email: mhasan223493@bscse.uiu.ac.bd
-🔗 GitHub: https://github.com/mahadi-493
+🚀 About Me<br/>
+🎓 CSE Student at UIU<br/>
+📬 Contact Me<br/>
+📧 Email: mhasan223493@bscse.uiu.ac.bd<br/>
+🔗 GitHub: https://github.com/mahadi-493<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mahadi-493&theme=tokyonight&hide_border=true)<br/>
 
