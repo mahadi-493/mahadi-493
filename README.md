@@ -1,6 +1,6 @@
 CSE Student • AI & Software Developer • Problem Solver
 
-I’m a passionate developer from 🇧🇩 Bangladesh, currently studying Computer Science & Engineering (CSE) at United International University.
+I’m a passionate developer from  Bangladesh, currently studying Computer Science & Engineering (CSE) at United International University.
 
 I love exploring AI, Machine Learning, Computer Vision, NLP, Software Development, and IoT/Robotics.
 My goal is to build impactful projects and publish high-quality AI research.
