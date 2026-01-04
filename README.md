@@ -16,5 +16,3 @@ My goal is to build impactful projects and publish high-quality AI research.
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-493&theme=tokyonight)
 ![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-493&theme=tokyonight)
 
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahadi-493&theme=tokyonight)
