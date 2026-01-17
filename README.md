@@ -9,7 +9,6 @@ My goal is to build impactful projects and publish high-quality AI research.
 🎓 CSE Student at UIU<br/>
 📬 Contact Me<br/>
 📧 Email: mhasan223493@bscse.uiu.ac.bd<br/>
-🔗 GitHub: https://github.com/mahadi-493<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mahadi-493&theme=tokyonight&hide_border=true)<br/>
 
