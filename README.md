@@ -12,4 +12,4 @@ My goal is to build impactful projects and publish high-quality AI research.
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mahadi-493&theme=tokyonight)
 
 ![Top Languages](https://ghstats.dev/api/top-langs?username=mahadi-493&theme=tokyonight)
-- uses: lowlighter/metrics@latest
+
