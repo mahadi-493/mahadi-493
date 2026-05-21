@@ -11,6 +11,6 @@ My goal is to build impactful projects and publish high-quality AI research.
 📧 Email: mhasan223493@bscse.uiu.ac.bd<br/>
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mahadi-493&theme=tokyonight)
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakibalam2503&theme=tokyonight)
-![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakibalam2503&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahadi-493&theme=tokyonight)
+![Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahadi-493&theme=tokyonight)
 
