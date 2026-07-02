@@ -10,7 +10,7 @@ My goal is to build impactful projects and publish high-quality AI research.
 📬 Contact Me<br/>
 📧 Email: mhasan223493@bscse.uiu.ac.bd<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-493" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadi-493" alt="streak"&theme=tokyonight />
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mahadi-493&theme=tokyonight)
 
