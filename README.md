@@ -1,4 +1,4 @@
-CSE Student 
+CSE Student . Mobile App Developer(Learning)
 
 I’m a passionate developer from  Bangladesh, currently studying Computer Science & Engineering (CSE) at United International University.
 
